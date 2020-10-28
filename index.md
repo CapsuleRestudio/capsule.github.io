@@ -5,7 +5,7 @@
         <meta lang="en">
         <meta charset="UTF-8">
         <meta name="description" content="Official Website of OrangeHand Intercompany">
-        <meta name="keywords" content="Games, Èãðû, Îðàíæåâàÿ Ðóêà, Þíèòè èãðû, OrangeHand Intercompany, Unity Games, Unity èãðû">
+        <meta name="keywords" content="Games, ÃˆÃ£Ã°Ã», ÃŽÃ°Ã Ã­Ã¦Ã¥Ã¢Ã Ã¿ ÃÃ³ÃªÃ , ÃžÃ­Ã¨Ã²Ã¨ Ã¨Ã£Ã°Ã», OrangeHand Intercompany, Unity Games, Unity Ã¨Ã£Ã°Ã»">
         <title>OrangeHand Interacompany Site | Home</title>
         <link rel="stylesheet" href="style.css">
     <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script></head>
